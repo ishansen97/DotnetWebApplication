@@ -26,5 +26,10 @@ namespace DotnetWebApplication.Controllers
 
             return View();
         }
+
+        public ActionResult Usage()
+        {
+            return View();
+        }
     }
 }
