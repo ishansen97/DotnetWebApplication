@@ -31,5 +31,10 @@ namespace DotnetWebApplication.Controllers
         {
             return View();
         }
+
+        public ActionResult Build()
+        {
+            return View();
+        }
     }
 }
